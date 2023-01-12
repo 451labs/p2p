@@ -1,0 +1,32 @@
+{
+  "name": "p2p-manifesto",
+  "version": "1.0.0",
+  "description": " A clear and present use case for peer-2-peer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://marceloomens@github.com/451labs/p2p.git"
+  },
+  "keywords": [
+    "ux",
+    "p2p",
+    "design-thinking",
+    "ux-design",
+    "peer-2-peer"
+  ],
+  "author": "451labs",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/451labs/p2p/issues"
+  },
+  "homepage": "https://github.com/451labs/p2p#readme",
+  "dependencies": {
+    "astro": "^1.9.2"
+  }
+}
